@@ -1,3 +1,7 @@
+
+TYPE YOUR MODS IN THORNEY PYTHON
+
+
 mc = minecraft.Minecraft.create() /this line says get my minecraft world that is running . ALWAYS put this first in the python doc.
 unless mods wont work cause it doesnt know what ur wanting to mod.
 
